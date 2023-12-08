@@ -1,0 +1,5 @@
+[
+name='М9', num_cars=1, 
+name='М111', num_cars=5, 
+name='М10', num_cars=2, 
+name='М100', num_cars=2]
