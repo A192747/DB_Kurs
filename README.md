@@ -33,10 +33,9 @@
 Данный журнал позволяет отслеживать водителей, по пути по каким дорогам они находятся. При нажатии кнопки «Добавить», появляется окно, в котором можно выбрать в какую таблицу необходимо добавить данные. (см. Рисунок 4). В данном окне необходимо ввести необходимые данные.
 <br/>
 ![Screenshot](https://github.com/A192747/DB_Kurs/blob/main/images/image4.png)
+![Screenshot](https://github.com/A192747/DB_Kurs/blob/main/images/image5.png)
 <br/>
 При желании можно внести изменения, нажав на кнопку «Изменить» (см. Рисунок 5). Так же когда необходимо удалить данные из необходимой таблицы, можно нажать на кнопку «Удалить».
-<br/>
-![Screenshot](https://github.com/A192747/DB_Kurs/blob/main/images/image5.png)
 <br/>
 ![Screenshot](https://github.com/A192747/DB_Kurs/blob/main/images/image6.png)
 <br/>
