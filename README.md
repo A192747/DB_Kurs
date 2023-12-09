@@ -48,6 +48,7 @@
 ![Screenshot](https://github.com/A192747/DB_Kurs/blob/main/images/image8.png)
 <br/>
 Отчеты в БД генерируются в формате txt.
+<br/>
 ![Screenshot](https://github.com/A192747/DB_Kurs/blob/main/images/image9.png)
 <br/>
 Отчет по водителям.
